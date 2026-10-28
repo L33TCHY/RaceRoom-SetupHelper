@@ -33,6 +33,13 @@ Kostenloses Setup-Tool für **RaceRoom Racing Experience**. Es liest die Live-Da
 
 RaceRoom im **randlosen Fenster- oder Fenstermodus** spielen, sonst sind die Overlays nicht sichtbar.
 
+### Meine Guides auf Steam
+
+Wer tiefer einsteigen will – die Grundlagen hinter den Empfehlungen des Tools:
+
+- **[Setup Hilfe / Setup Help](https://steamcommunity.com/sharedfiles/filedetails/?id=2576408471)** – welche Setup-Änderung gegen Über- oder Untersteuern hilft, sortiert nach Kurvenphase und Kurventempo, mit der Physik dahinter und zwei Cheat Sheets (Deutsch und Englisch)
+- **[FFB-Update 2026: Realistische Settings für Simagic Alpha EVO Pro + GT Neo & VRS DirectForce Pro](https://steamcommunity.com/sharedfiles/filedetails/?id=3823420681)** – Force Feedback nach dem Historic Update 2026 neu abstimmen, getestet mit Simagic- und VRS-Hardware (Deutsch)
+
 ### Datenschutz
 
 Der Helper liest nur Daten aus RaceRoom, verändert nichts am Spiel und drückt keine Tasten. Ins Internet geht er nur, um hier nach Updates zu sehen (abschaltbar). Es werden keine Daten über dich oder deine Fahrten gesendet.
@@ -76,6 +83,13 @@ Free setup tool for **RaceRoom Racing Experience**. It reads the game's live dat
 | Overlays | Setup, track, tyres, damage – each movable, scalable and with its own opacity |
 
 Play RaceRoom in **borderless windowed or windowed mode**, otherwise the overlays are not visible.
+
+### My guides on Steam
+
+For a deeper dive – the background behind the tool's recommendations:
+
+- **[Setup Hilfe / Setup Help](https://steamcommunity.com/sharedfiles/filedetails/?id=2576408471)** – which setup change fixes oversteer or understeer, by corner phase and corner speed, with the physics behind it and two cheat sheets (German and English)
+- **[FFB update 2026: realistic settings for Simagic Alpha EVO Pro + GT Neo & VRS DirectForce Pro](https://steamcommunity.com/sharedfiles/filedetails/?id=3823420681)** – retuning force feedback after the Historic Update 2026, tested with Simagic and VRS hardware (German only)
 
 ### Privacy
 
