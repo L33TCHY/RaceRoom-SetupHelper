@@ -1,33 +1,44 @@
-name: Fehler melden / Bug report
-description: Etwas funktioniert nicht oder eine Empfehlung ist falsch
+name: "🐞 Fehler melden / Bug report"
+description: "Etwas funktioniert nicht oder eine Empfehlung ist falsch · Something does not work or a recommendation is wrong"
 labels: ["bug"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke fürs Melden! Deutsch oder Englisch – beides ist okay.
+        Thanks for reporting! German or English – both are fine.
   - type: input
     id: version
     attributes:
-      label: Version
-      description: Steht im Tool unter Info (z. B. 2026.53)
+      label: "Version"
+      description: "Steht im Tool unter Info · Shown in the tool under Info (e.g. 2026.54)"
+      placeholder: "2026.54"
     validations:
       required: true
   - type: input
     id: car_track
     attributes:
-      label: Auto und Strecke
-      placeholder: z. B. Porsche 911 GT3 R, Zandvoort GP
+      label: "Auto und Strecke · Car and track"
+      placeholder: "Porsche 911 GT3 R, Zandvoort GP"
   - type: dropdown
     id: session
     attributes:
-      label: Session
-      options: [Training, Qualifying, Rennen, Testfahrt, Menü/Garage]
+      label: "Session"
+      options:
+        - "Training / Practice"
+        - "Qualifying"
+        - "Rennen / Race"
+        - "Testfahrt / Test drive"
+        - "Menü oder Garage / Menu or garage"
   - type: textarea
     id: what
     attributes:
-      label: Was ist passiert?
-      description: Was hast du gemacht, was hast du erwartet, was kam stattdessen?
+      label: "Was ist passiert? · What happened?"
+      description: "Was hast du gemacht, was hast du erwartet, was kam stattdessen? · What did you do, what did you expect, what happened instead?"
     validations:
       required: true
   - type: textarea
     id: log
     attributes:
-      label: Logdatei
-      description: Im Tool Info → Logordner öffnen → setuphelper.log hierher ziehen. Screenshots gern dazu.
+      label: "Logdatei · Log file"
+      description: "Im Tool: Info → Logordner öffnen → setuphelper.log hierher ziehen. Screenshots gern dazu. · In the tool: Info → Open log folder → drag setuphelper.log here. Screenshots welcome."

@@ -1,10 +1,15 @@
-name: Idee / Feedback
-description: Vorschlag oder allgemeine Rückmeldung
+name: "💡 Idee / Feedback · Idea / feedback"
+description: "Vorschlag oder allgemeine Rückmeldung · Suggestion or general feedback"
 labels: ["feedback"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Deutsch oder Englisch – beides ist okay. · German or English – both are fine.
   - type: textarea
     id: idea
     attributes:
-      label: Deine Idee oder Rückmeldung
+      label: "Deine Idee oder Rückmeldung · Your idea or feedback"
+      description: "Was wünschst du dir, und wobei würde es dir helfen? · What would you like, and how would it help you?"
     validations:
       required: true
