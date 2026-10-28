@@ -1,0 +1,95 @@
+L33TCH SETUP HELPER 2026 – LIZENZ (FREEWARE)
+Copyright (c) 2026 L33TCH. Alle Rechte vorbehalten.
+
+1. Nutzung
+   Du darfst den L33TCH Setup Helper ("die Software") kostenlos privat
+   nutzen, auch auf mehreren eigenen PCs.
+
+2. Weitergabe
+   Du darfst die Software kostenlos weitergeben, aber nur
+   - unverändert und vollständig (das ganze Paket inklusive dieser
+     Lizenz, der LIESMICH und aller Hinweise auf L33TCH),
+   - ohne Gebühr, Bezahlschranke, Abo, Spendenpflicht oder Bündelung
+     mit kostenpflichtigen Angeboten,
+   - mit Nennung von L33TCH als Urheber und, wenn vorhanden, mit Link
+     auf die offizielle Projektseite.
+
+3. Nicht erlaubt
+   - die Software oder Teile davon zu verkaufen, zu vermieten oder
+     kommerziell zu verwerten,
+   - die Software zu verändern, Teile davon in eigene Programme zu
+     übernehmen oder veränderte Fassungen zu verbreiten,
+   - Urheber-, Lizenz- oder Markenhinweise zu entfernen oder zu ändern,
+   - die Software als eigenes Werk auszugeben.
+   Gesetzlich zwingend erlaubte Handlungen bleiben unberührt.
+   Für alles darüber hinaus (z. B. Einbindung in ein anderes Projekt)
+   vorher L33TCH fragen.
+
+4. Unabhängigkeit
+   Die Software ist ein inoffizielles Fan-Projekt. Sie steht in keiner
+   Verbindung zu KW Studios oder den Rechteinhabern von RaceRoom und wird
+   von ihnen weder unterstützt noch geprüft. RaceRoom sowie alle Fahrzeug-
+   und Streckennamen gehören ihren jeweiligen Inhabern.
+
+5. Keine Gewähr
+   Die Software wird kostenlos und "wie sie ist" bereitgestellt. Die
+   Empfehlungen sind Schätzungen aus Live-Daten; es gibt keine Garantie
+   für Richtigkeit, Rundenzeiten oder Rennergebnisse.
+
+6. Haftung
+   L33TCH haftet nur für Vorsatz und grobe Fahrlässigkeit sowie nach
+   zwingenden gesetzlichen Vorschriften (z. B. bei Verletzung von Leben,
+   Körper oder Gesundheit). Im Übrigen ist die Haftung ausgeschlossen.
+
+7. Recht
+   Es gilt deutsches Recht. Ist eine Bestimmung unwirksam, bleiben die
+   übrigen wirksam.
+
+------------------------------------------------------------------------
+
+L33TCH SETUP HELPER 2026 – LICENCE (FREEWARE)
+Copyright (c) 2026 L33TCH. All rights reserved.
+(The German version above is the binding one; this is a translation.)
+
+1. Use
+   You may use the L33TCH Setup Helper ("the software") free of charge
+   for private purposes, also on several of your own PCs.
+
+2. Sharing
+   You may share the software free of charge, but only
+   - unchanged and complete (the whole package including this licence,
+     the README and all references to L33TCH),
+   - without any fee, paywall, subscription, mandatory donation or
+     bundling with paid offers,
+   - crediting L33TCH as the author and, if available, linking to the
+     official project page.
+
+3. Not allowed
+   - selling, renting or otherwise commercially exploiting the software
+     or parts of it,
+   - modifying the software, taking parts of it into your own programs
+     or distributing modified versions,
+   - removing or changing copyright, licence or trademark notices,
+   - presenting the software as your own work.
+   Acts permitted by mandatory law remain unaffected.
+   For anything beyond this (e.g. including it in another project), ask
+   L33TCH first.
+
+4. Independence
+   The software is an unofficial fan project. It is not affiliated with
+   KW Studios or the rights holders of RaceRoom and is neither endorsed
+   nor reviewed by them. RaceRoom and all car and track names belong to
+   their respective owners.
+
+5. No warranty
+   The software is provided free of charge and "as is". Recommendations
+   are estimates from live data; there is no guarantee of correctness,
+   lap times or race results.
+
+6. Liability
+   L33TCH is liable only for intent and gross negligence and as required
+   by mandatory law (e.g. injury to life, body or health). Any further
+   liability is excluded.
+
+7. Law
+   German law applies. If a provision is invalid, the rest remains valid.
