@@ -1,1 +1,33 @@
-
+name: Fehler melden / Bug report
+description: Etwas funktioniert nicht oder eine Empfehlung ist falsch
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Steht im Tool unter Info (z. B. 2026.53)
+    validations:
+      required: true
+  - type: input
+    id: car_track
+    attributes:
+      label: Auto und Strecke
+      placeholder: z. B. Porsche 911 GT3 R, Zandvoort GP
+  - type: dropdown
+    id: session
+    attributes:
+      label: Session
+      options: [Training, Qualifying, Rennen, Testfahrt, Menü/Garage]
+  - type: textarea
+    id: what
+    attributes:
+      label: Was ist passiert?
+      description: Was hast du gemacht, was hast du erwartet, was kam stattdessen?
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Logdatei
+      description: Im Tool Info → Logordner öffnen → setuphelper.log hierher ziehen. Screenshots gern dazu.
