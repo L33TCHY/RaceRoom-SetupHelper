@@ -1,6 +1,8 @@
-# L33TCH Setup Helper 2026 · RaceRoom
+<p align="center"><img src="images/logo.png" width="140" alt="L33TCH Setup Helper Logo"></p>
 
-**[🇩🇪 Deutsch](#deutsch) · [🇬🇧 English](#english)**
+<h1 align="center">L33TCH Setup Helper 2026 · RaceRoom</h1>
+
+<p align="center"><b><a href="#deutsch">🇩🇪 Deutsch</a> · <a href="#english">🇬🇧 English</a></b></p>
 
 [![Download](https://img.shields.io/github/v/release/L33TCHY/RaceRoom-SetupHelper?label=Download&color=5ce1c0)](../../releases/latest)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Danke%20%2F%20Thank%20you-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/l33tch)
@@ -10,6 +12,8 @@
 ## Deutsch
 
 Kostenloses Setup-Tool für **RaceRoom Racing Experience**. Es liest die Live-Daten des Spiels und sagt dir, was du am Setup ändern solltest – Reifen, Fahrverhalten, Force Feedback, Pedale und Sprit, dazu Overlays im Spiel.
+
+![L33TCH Setup Helper – Reifen-Seite und Overlays](images/de_00_hero.png)
 
 ### Download & Installation
 
@@ -32,6 +36,16 @@ Kostenloses Setup-Tool für **RaceRoom Racing Experience**. Es liest die Live-Da
 | Overlays | Setup, Strecke, Reifen, Schaden – einzeln verschieb-, skalier- und transparent einstellbar |
 
 RaceRoom im **randlosen Fenster- oder Fenstermodus** spielen, sonst sind die Overlays nicht sichtbar.
+
+### Screenshots
+
+| Fahrverhalten | Eingabegeräte |
+|---|---|
+| ![Fahrverhalten](images/de_02_handling.png) | ![Eingabegeräte](images/de_04_inputs.png) |
+| **Reifen** | **Tank** |
+| ![Reifen](images/de_01_tires.png) | ![Tank](images/de_06_fuel.png) |
+
+![Overlays im Spiel](images/de_10_overlays.png)
 
 ### Meine Guides auf Steam
 
@@ -62,6 +76,8 @@ Inoffizielles Fan-Tool von L33TCH. Keine Verbindung zu KW Studios oder den Recht
 
 Free setup tool for **RaceRoom Racing Experience**. It reads the game's live data and tells you what to change in your setup – tyres, handling, force feedback, pedals and fuel, plus in-game overlays.
 
+![L33TCH Setup Helper – tyres page and overlays](images/en_00_hero.png)
+
 ### Download & installation
 
 **[➜ Download the latest version](../../releases/latest)** and run `SetupHelper2026_Setup_<version>.exe`.
@@ -83,6 +99,16 @@ Free setup tool for **RaceRoom Racing Experience**. It reads the game's live dat
 | Overlays | Setup, track, tyres, damage – each movable, scalable and with its own opacity |
 
 Play RaceRoom in **borderless windowed or windowed mode**, otherwise the overlays are not visible.
+
+### Screenshots
+
+| Handling | Input devices |
+|---|---|
+| ![Handling](images/en_02_handling.png) | ![Input devices](images/en_04_inputs.png) |
+| **Tyres** | **Fuel** |
+| ![Tyres](images/en_01_tires.png) | ![Fuel](images/en_06_fuel.png) |
+
+![In-game overlays](images/en_10_overlays.png)
 
 ### My guides on Steam
 
